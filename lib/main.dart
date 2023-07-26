@@ -45,7 +45,7 @@ class _MyHomePageState extends State<MyHomePage> {
         title: Text(widget.title),
 
       ),
-      body:Center(  
+      body:Center(
         child: Container(
           color: Colors.blue,
           width: 200,
